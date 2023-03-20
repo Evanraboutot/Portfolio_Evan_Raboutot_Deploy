@@ -55,7 +55,7 @@ const Services = () => {
             <div>
               {services.map((service, index) => {
                 
-                const { name, description, link } = service;
+                const { name, description } = service;
                 return (
                   <div
                     className='border-b border-white/20 h-[150px] mb-[38px] flex'
