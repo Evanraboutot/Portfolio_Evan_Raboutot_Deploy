@@ -7,8 +7,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Work from './components/Work';
 import Contact from './components/Contact';
-import ContactForm from './components/contact2';
-import vide from './components/vide';
+
 
 const App = () => {
   return (
@@ -20,7 +19,6 @@ const App = () => {
       <Services />
       
       <div className=' mb-60'>
-      <vide />
       </div>
       <Work />
       <Contact />
