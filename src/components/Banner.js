@@ -2,7 +2,7 @@ import React from 'react';
 
 import Image from '../assets/Logo3.png';
 
-import { FaGithub, FaYoutube, FaDribbble, FaFigma, FaBehance, FaDiscord } from 'react-icons/fa';
+import { FaGithub, FaFigma, FaBehance, FaDiscord } from 'react-icons/fa';
 
 import { TypeAnimation } from 'react-type-animation';
 
