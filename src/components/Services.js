@@ -41,7 +41,6 @@ const Services = () => {
             <h3 className='h3 max-w-[455px] mb-16'>
               Voici un récapitulatif de mes connaissances acquises.
             </h3>
-            <button className='btn btn-sm'>voir mes travaux</button>
           </motion.div>
           {/* Compétence/services */}
           <motion.div
