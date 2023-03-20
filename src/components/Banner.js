@@ -74,9 +74,9 @@ const Banner = () => {
               className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'
             >
               
-              <button to='contact' className='btn btn-lg'>Contactez moi</button>
+ 
             </motion.div>
-            {/* socials */}
+            {/* sociale */}
             <motion.div
               variants={fadeIn('up', 0.7)}
               initial='hidden'
